@@ -1,0 +1,97 @@
+bladetester_calendar.label.event.add: Добавяне на събитие #Añadir evento
+bladetester_calendar.label.event.delete: Изтриване #Eliminar
+bladetester_calendar.label.event.update: Обновяване на събитие #Actualizar evento
+bladetester_calendar.label.event.delete_warning: Наистина ли искаш да изтриеш това събитие? #¿De verdad quieres eliminar este evento?
+bladetester_calendar.label.event_category.delete_warning: Наистина ли искаш да изтриеш тази категория? #¿De verdad quieres eliminar esta categoría?
+bladetester_calendar.label.event.category.none: Без категория #Sin categoría
+bladetester_calendar.label.agenda: График #Agenda
+bladetester_calendar.label.day: Ден #Día
+bladetester_calendar.label.week: Седмица #Semana
+bladetester_calendar.label.month: Месец #Mes
+bladetester_calendar.label.print: Печат #Imprimir
+bladetester_calendar.label.settings: Настройки #Configurar
+bladetester_calendar.label.cancel: Отказ #Cancelar
+bladetester_calendar.label.configuration_parameters: Parámetros de configuración
+bladetester_calendar.label.back_to_calendar: Обратно към календара #volver al calendario
+
+bladetester_calendar.label.event.title: Заглавие #Título
+bladetester_calendar.label.event.description: Описание #Descripción
+bladetester_calendar.label.event.start: Начало #Inicio
+bladetester_calendar.label.event.end: Край #Fin
+bladetester_calendar.label.event.category: Категория #Categoría
+
+bladetester_calendar.label.category.add: Създаване на категория #Crear categoría
+bladetester_calendar.title.category.add: Създаване на нова категория #Crear nueva categoría
+bladetester_calendar.label.category.edit: Редактиране #Actualizar
+bladetester_calendar.title.category.edit: Редактиране на категория #Editar categoría
+bladetester_calendar.label.delete: Изтриване #Borrar
+bladetester_calendar.title.category.list: Списък от категории #Listado de categorías
+bladetester_calendar.label.category.name: Име #Nombre
+bladetester_calendar.label.category.color: Цвят #Color
+
+bladetester_calendar.label.settings.update: Запази #Guardar
+bladetester_calendar.label.settings.default_view: Изглед по подразбиране #Vista predeterminada
+
+bladetester_calendar.list.no_events: Все още няма събития #Aún no hay eventos
+bladetester_calendar.list.no_categories: Все още няма категории #Aún no hay categorías
+
+bladetester_calendar.flash.event_added: Se ha creado un nuevo evento de título "%title%"
+bladetester_calendar.flash.event_updated: El evento "%title%" ha sido actualizado
+bladetester_calendar.flash.event_deleted: El evento "%title%" ha sido eliminado
+bladetester_calendar.flash.category_added: Se ha creado una nueva categoría de nombre %name%
+bladetester_calendar.flash.category_updated: La categoría %name% ha sido actualizada
+bladetester_calendar.flash.category_deleted: La categoría %name% ha sido eliminada
+bladetester_calendar.flash.settings_updated: Configuración del calendario actualizada
+
+bladetester_calendar.exception.event_not_found: No se encontró ningún evento con id %id%
+bladetester_calendar.exception.category_not_found: No se encontró ninguna categoría con id %id%
+
+
+
+%month% of %year%: %month% de %year%
+%month%-%day%: %day%/%month%
+Week from %from_day%, %from_month% of %from_year% to %to_day%, %to_month% of %to_year%: Semana del %from_day% de %from_month% de %from_year% al %to_day% de %to_month% de %to_year%
+%week_day%, %month% %day%th of %year%: %week_day%, %day% de %month% de %year%
+
+
+bladetester_calendar.abbr.monday: пон #lun
+bladetester_calendar.abbr.tuesday: вто #mar
+bladetester_calendar.abbr.wednesday: сря #mie
+bladetester_calendar.abbr.thursday: чет #jue
+bladetester_calendar.abbr.friday: пет #vie
+bladetester_calendar.abbr.saturday: съб #sáb
+bladetester_calendar.abbr.sunday: нед #dom
+
+
+January: Януари #Enero
+February: Февруари #Febrero
+March: Март #Marzo
+April: Април #Abril
+May: Май #Mayo
+June: Юни #Junio
+July: Юли #Julio
+August: Август #Agosto
+September: Септември #Septiembre
+October: Октомври #Octubre
+November: Ноември #Noviembre
+December: Декември #Diciembre
+
+
+Monday: Понеделник #lunes
+Tuesday: Вторник #martes
+Wednesday: Сряда #miércoles
+Thursday: Четвъртак #jueves
+Friday: Петък #viernes
+Saturday: Събота #sábado
+Sunday: Неделя #domingo
+
+
+Mon: Пон #lun
+Tue: Вто #mar
+Wed: Сря #mié
+Thu: Чет #jue
+Fri: Пет #vie
+Sat: Съб #sáb
+Sun: Нед #dom
+
+or: или #o
